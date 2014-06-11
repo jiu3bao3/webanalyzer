@@ -23,7 +23,7 @@ enum MessageLevel{DEBUG, INFO, WARN, ERROR}
 public class WebAnalyzer
 {
     private ILogger m_logger = null;//ロガー
-    private bool m_Changed = false;
+    private bool m_Changed = false;//変更フラグ
     //--------------------------------------------------------------------------
     public static void Main(string[] args)
     {
