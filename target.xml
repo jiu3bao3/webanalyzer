@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<target>
+	<table>data.htb</table>
+	<log>log\webupdatelog{0}.txt</log>
+
+	<website>
+		<url>http://kabunushinokenri.com/</url>
+		<title>株主の権利弁護団</title>
+	</website>
+	<website>
+		<url>http://blog.canpan.info/cceas</url>
+		<title>中国児童教育援助協会代表者ブログ</title>
+	</website>
+	<website>
+		<url>http://www.yotsuba-support.net/</url>
+		<title>加賀佳子先生</title>
+	</website>
+	<website>
+		<url>http://www.sengawa-mental.com/</url>
+		<title>仙川駅前いたがきメンタルクリニック</title>
+	</website>
+	<website>
+		<url>http://www.ims-itabashi.jp/</url>
+		<title>板橋中央総合病院</title>
+	</website>
+	<website>
+		<url>http://www.navio.co.jp/</url>
+		<title>ナビオコンピュータ株式会社</title>
+	</website>
+	<website>
+		<url>http://www.shogaisha-union.net/</url>
+		<title>全国働く障害者ユニオン</title>
+	</website>
+	<website>
+		<url>http://www.tscomm.co.jp/</url>
+		<title>株式会社ティエスコミュニティー</title>
+	</website>
+	<website>
+		<url>http://www.piano-gc.co.jp/</url>
+		<title>ピアノ技術センター</title>
+	</website>
+	<website>
+		<url>http://jyohoku-law.com/</url>
+		<title>城北法律事務所</title>
+	</website>
+	<website>
+		<url>http://www.alliancejp.com/</url>
+		<title>有限会社アライアンス</title>
+	</website>
+</target>
